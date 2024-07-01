@@ -1,0 +1,179 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Section",
+        "content": {
+            "heading": "text",
+            "link_title": "text",
+            "link": "text",
+            "images": {
+                "background_image": {
+                    "size": "1500x88"
+                },
+                "animation_image": {
+                    "size": "200x69"
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcrumb",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1288"
+                }
+            }
+        }
+    },
+    "how_it_works": {
+        "builder": true,
+        "no_selection": false,
+        "name": "How Work Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "heading": "text",
+            "sub_heading": "text",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+
+    "faq": {
+        "builder": true,
+        "no_selection": false,
+        "name": "FAQ",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+    "contact": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact",
+        "content": {
+            "title": "text",
+            "short_details": "text",
+            "address": "text",
+            "contact_number": "text",
+            "email": "text",
+            "latitude": "text",
+            "longitude": "text",
+            "form_title": "text"
+        }
+    },
+    "about": {
+        "builder": true,
+        "no_selection": false,
+        "name": "About Us",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "835x575"
+                }
+            },
+            "heading": "text",
+            "short_description": "textarea-nic",
+            "title": "text",
+            "description": "textarea-nic"
+        }
+    },
+    "social_links": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Link",
+        "element": {
+            "name": "text",
+            "icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Section",
+        "content": {
+            "short_description": "text"
+        }
+    },
+    "sign_up": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Sign Up",
+        "content": {
+            "images": {
+                "background_image":{
+                    "size": "1920x1280"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "sign_in": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Sign In",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1280"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "forgot_password": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Forgot Password",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1280"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "verify_code": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Verify Code Page",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1280"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "reset_password": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Reset Password Page",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1280"
+                }
+            },
+            "heading": "text"
+        }
+    }
+}
